@@ -1,0 +1,3 @@
+[submodule "soccer-playground"]
+	path = soccer-playground
+	url = https://github.com/MRL-HSL-Software/soccer-playground.git
