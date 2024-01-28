@@ -7,20 +7,20 @@ in Order to Visualize Behavior Modules We Use Soccer Playground that Previously 
   * [ ] A*
   * [ ] BFS and DFS
   * [ ] Obstacle Avoidance
+  * [ ] Robot's Intesection Area
 * Movement Handler
   * [ ] Robot Direction in [Radian](https://en.wikipedia.org/wiki/Radian)
   * [ ] [Transformation Matrix](https://en.wikipedia.org/wiki/Transformation_matrix)
   * [ ] [Acceleration](https://en.wikipedia.org/wiki/Acceleration)
   * [ ] [Velocity](https://en.wikipedia.org/wiki/Velocity)
 ## Overview
-for Robot that is on Playground, We have Attributes Like :
+There are related modules to handle Path Planning and Movements of Robot and for Robot that is on Playground, We have Attributes Like :
 * Robot's Shape (Based on Sample in [Assets Directory](Assets/robot.png))
 * Position on [Cartesian Coordinate System](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)
 * Robot's Velocity and Acceleration
 * Robot's Direction in Radian
 * Robot's Name
-<p align="middle">
+<p>
   <img width="468" height="340" src="Assets/playground.png" alt="Soccer Playground by Junior Members" align="right">
   <img width="468" height="340" src="Assets/intersection_area.png" alt="Ball Searching by Mahdi Zeinali" align="left">
 </p>
-  
