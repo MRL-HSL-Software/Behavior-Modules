@@ -13,6 +13,12 @@ in Order to Visualize Behavior Modules We Use Soccer Playground that Previously 
   * [ ] [Acceleration](https://en.wikipedia.org/wiki/Acceleration)
   * [ ] [Velocity](https://en.wikipedia.org/wiki/Velocity)
 ## Overview
+for Robot that is on Playground, We have Attributes Like :
+* Robot's Shape (Based on Sample in Assets Directory)
+* Position on [Cartesian Coordinate System](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)
+* Robot's Velocity and Acceleration
+* Robot's Direction in Radian
+* Robot's Name
 <p align="middle">
   <img width="468" height="340" src="Assets/playground.png" alt="Soccer Playground by Junior Members" align="right">
   <img width="468" height="340" src="Assets/intersection_area.png" alt="Ball Searching by Mahdi Zeinali" align="left">
