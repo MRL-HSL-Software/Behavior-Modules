@@ -24,3 +24,20 @@ There are related modules to handle Path Planning and Movements of Robot and for
   <img style="padding: 100px" width="351" height="255" src="Assets/playground.png" alt="Soccer Playground by Junior Members" align="10%">
   <img style="padding: 100px" width="351" height="255" src="Assets/intersection_area.png" alt="Ball Searching by Mahdi Zeinali" align="right">
 </p>
+
+## Build and Execute
+```
+# - Clone the Repository
+git clone https://github.com/MRL-HSL-Software/Behavior-Modules.git
+cd Behavior-Modules/
+
+# - Also Clone MRL HSL CMake Project
+git clone https://github.com/MRL-HSL-Software/MRL-HSL-CMake.git
+cd MRL-HSL-CMake/
+
+# - Build Project Project Using This Command :
+./setup.sh
+
+# - To Run Output Go to build Directory and Then Enter This Command :
+./run
+```
