@@ -21,6 +21,6 @@ There are related modules to handle Path Planning and Movements of Robot and for
 * Robot's Direction in Radian
 * Robot's Name
 <p>
-  <img width="468" height="340" src="Assets/playground.png" alt="Soccer Playground by Junior Members" align="right">
-  <img width="468" height="340" src="Assets/intersection_area.png" alt="Ball Searching by Mahdi Zeinali" align="left">
+  <img width="234" height="170" src="Assets/playground.png" alt="Soccer Playground by Junior Members" align="right">
+  <img width="234" height="170" src="Assets/intersection_area.png" alt="Ball Searching by Mahdi Zeinali" align="left">
 </p>
