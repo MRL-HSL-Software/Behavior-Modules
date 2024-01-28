@@ -14,7 +14,7 @@ in Order to Visualize Behavior Modules We Use Soccer Playground that Previously 
   * [ ] [Velocity](https://en.wikipedia.org/wiki/Velocity)
 ## Overview
 for Robot that is on Playground, We have Attributes Like :
-* Robot's Shape (Based on Sample in Assets Directory)
+* Robot's Shape (Based on Sample in [Assets Directory](Assets/robot.png))
 * Position on [Cartesian Coordinate System](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)
 * Robot's Velocity and Acceleration
 * Robot's Direction in Radian
